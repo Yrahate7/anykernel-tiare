@@ -1,0 +1,4 @@
+*.ko
+*.gz-dtb
+*.zip
+.github
